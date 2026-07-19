@@ -1,0 +1,11 @@
+{
+  "updated": "2026-07-18",
+  "picks": [
+    { "key": "pluto", "title": "Pluto", "query": "Pluto", "label": "Staff Pick", "reason": "A tight, prestige sci-fi mystery that is easy to recommend." },
+    { "key": "witch-hat", "title": "Witch Hat Atelier", "query": "Witch Hat Atelier", "label": "Art Pick", "reason": "Gorgeous art direction and collector-friendly volumes." },
+    { "key": "dorohedoro", "title": "Dorohedoro", "query": "Dorohedoro", "label": "Weird Pick", "reason": "Messy, violent, funny, and extremely shelf-worthy." },
+    { "key": "yotsuba", "title": "Yotsuba&!", "query": "Yotsuba&!", "label": "Comfort Pick", "reason": "A warm reset button when you want something lighter." },
+    { "key": "vinland", "title": "Vinland Saga", "query": "Vinland Saga", "label": "Epic Pick", "reason": "A long-haul shelf project with serious payoff." },
+    { "key": "girl-from-other-side", "title": "The Girl From the Other Side", "query": "The Girl From the Other Side", "label": "Mood Pick", "reason": "A haunting fairy-tale atmosphere with beautiful covers." }
+  ]
+}
